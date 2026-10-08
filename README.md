@@ -1,6 +1,6 @@
 # Retail Angle
 
-A finfluencer accountability tracker. It logs explicit buy/sell stock callouts made by finance influencers on Reddit and Instagram, records the date and the influencer's claimed performance, then scores every call against the market over time. Claims get checked. Deleted losers stay on the record.
+A influencer accountability tracker. It logs explicit buy/sell stock callouts made by finance influencers on Reddit and Instagram, records the date and the influencer's claimed performance, then scores every call against the market over time. Claims get checked. Deleted losers stay on the record.
 
 ## How it works
 
